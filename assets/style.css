@@ -171,8 +171,14 @@
                                                                                 }
                                                                                 
                                                                                 .main-section {
-                                                                                    float: right;
-                                                                                    width: 500%;
+                                                                                    float: center;
+                                                                                    width: 100%;
+                                                                                }
+                                                                                
+                                                                                p {
+                                                                                    display: block;
+                                                                                    align-content: right;
+                                                                                    float: left;
                                                                                 }
                                                                                 
                                                                                 .input {
@@ -186,26 +192,31 @@
                                                                                     background-color: rgba(128, 128, 128, 0.425);
                                                                                 }
                                                                                 
-                                                                                .my-things {
+                                                                                #pics {
                                                                                     display: grid;
+                                                                                    width: 20%;
+                                                                                }
+                                                                                
+                                                                                .img {
+                                                                                    width: 100%;
                                                                                 }
                                                                                 
                                                                                 .guess {
-                                                                                    width: 100%;
+                                                                                    width: 20%;
                                                                                 }
                                                                                 
                                                                                 .rpg {
-                                                                                    width: 100%;
+                                                                                    width: 20%;
                                                                                 }
                                                                                 
                                                                                 .Trivia {
-                                                                                    width: 100%;
+                                                                                    width: 20%;
                                                                                 }
                                                                                 
                                                                                 .rutgers {
-                                                                                    width: 100%;
+                                                                                    width: 20%;
                                                                                 }
                                                                                 
                                                                                 .rps {
-                                                                                    width: 100%;
+                                                                                    width: 20%;
                                                                                 }
